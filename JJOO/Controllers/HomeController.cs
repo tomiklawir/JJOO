@@ -17,6 +17,10 @@ public class HomeController : Controller
     {
         return View("Index");
     }
+    public IActionResult Creditos()
+    {
+        return View("Creditos");
+    }
     public IActionResult Paises()
     {
         return View("Paises");
@@ -26,6 +30,12 @@ public class HomeController : Controller
     {
         return View("Deportes");
         ViewBag.ListaDeportes = BD.ListarDeportes();
+    }
+    public IActionResult VerDetalleDeporte(int IdDeporte)
+    {
+        ViewBag.DetalleDeporte = BD.VerInfoDeporte();
+        ViewBag.DeportistasXDeporte = BD.ListarDeportistasDeporte();
+        return View("DetalleDeporte");
     }
     public IActionResult DetalleDeportista(int IdDeportista)
     {
