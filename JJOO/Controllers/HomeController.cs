@@ -42,4 +42,17 @@ public class HomeController : Controller
         ViewBag.DetalleDeportista = BD.VerInfoDeportista();
         return View("DetalleDeportista");
     }
+    public IActionResult DetallePais(int IdPais)
+    {
+        ViewBag.DetallePais = BD.VerInfoPais();
+        ViewBag.DeportistasXPais = BD.ListarDeportistasPais();
+        return View("DetallePais");
+    }
+    public IActionResult AgregarDeportista()
+    {
+        ViewBag.ListaPais = BD.ListarPaises();
+        ViewBag.ListaDeportes = BD.ListarDeportes();
+        return View("AgregarDeportista");
+    }
+
 }
