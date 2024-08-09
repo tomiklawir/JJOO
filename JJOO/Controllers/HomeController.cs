@@ -15,6 +15,16 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        return View("Index");
+    }
+    public IActionResult Paises()
+    {
+        return View("Paises");
+        ViewBag.ListaPais = BD.ListarPaises();
+    }
+    public IActionResult Deportes()
+    {
+        return View("Deportes");
+        ViewBag.ListaDeportes = BD.ListarDeportes();
     }
 }

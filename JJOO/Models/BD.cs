@@ -12,7 +12,7 @@ class BD{
     public static void EliminarDeportista(int IdDeportista){
         using(SqlConnection db = new SqlConnection(_connectionString)){
             string sql = "DELETE FROM Deportistas WHERE IdDeportista = @pIdDeportista";
-            db.Execute(sql, new{IdDeportista = pIdDeportista});
+            db.Execute(sql, new{pIdDeportista = IdDeportista});
         }
     }
     public static Deporte VerInfoDeporte(int IdDeporte){
@@ -39,20 +39,28 @@ class BD{
         }
         return ListaPaises;
     }
-    /* public static List<string> ListarDeportistasDeporte(int IdDeporte){
-        List<string> ListaDeportistas = null;
+    public static List<Deporte> ListarDeportes(){
+        List<Deporte> ListaDeportes = null;
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            string sql = "SELECT * FORM Paises WHERE IdPais = @PaisVer";
-            ListaPaises = db.Query<Pais>(sql).ToList();
+            string sql = "SELECT * FROM Deportes";
+            ListaDeportes = db.Query<Deporte>(sql).ToList();
+        }
+        return ListaDeportes;
+    }
+     public static List<Deportista> ListarDeportistasDeporte(int IdDeporte){
+        List<Deportista> ListaDeportistas = null;
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            string sql = "SELECT * FORM Deportistas WHERE IdDeporte = @DeporteVer";
+            ListaDeportistas = db.Query<Deportista>(sql, new {DeporteVer = IdDeporte}).ToList();
         }
         return ListaDeportistas;
     }
-    public static List<string> ListarDeportistasPais(int IdPais){
-        List<string> ListaPaises = null;
+    public static List<Deportista> ListarDeportistasPais(int IdPais){
+        List<Deportista> ListaDeportista = null;
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            string sql = "SELECT * FORM Paises WHERE IdPais = @PaisVer";
-            ListaPaises = db.Query<Pais>(sql).ToList();
+            string sql = "SELECT * FORM Deportistas WHERE IdPais = @PaisVer";
+            ListaDeportista = db.Query<Deportista>(sql, new {PaisVer = IdPais}).ToList();
         }
-        return ListaPaises;
-    }*/
+        return ListaDeportista;
+    }
 }
