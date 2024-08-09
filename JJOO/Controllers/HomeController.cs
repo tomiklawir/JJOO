@@ -27,4 +27,9 @@ public class HomeController : Controller
         return View("Deportes");
         ViewBag.ListaDeportes = BD.ListarDeportes();
     }
+    public IActionResult DetalleDeportista(int IdDeportista)
+    {
+        ViewBag.DetalleDeportista = BD.VerInfoDeportista();
+        return View("DetalleDeportista");
+    }
 }

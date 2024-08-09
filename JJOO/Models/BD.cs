@@ -31,6 +31,14 @@ class BD{
         }
         return MiPais;
     }
+    public static Deportista VerInfoDeportista(int IdDeportista){
+        Deportista MiDeportista = null;
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            string sql = "SELECT * FORM Deportista WHERE IdDeportista = @DeportistaVer";
+            MiDeportista = db.QueryFirstOrDefault<Pais>(sql, new{DeportistaVer = IdDeportista});
+        }
+        return MiDeportista;
+    }
     public static List<Pais> ListarPaises(){
         List<Pais> ListaPaises = null;
         using(SqlConnection db = new SqlConnection(_connectionString)){
