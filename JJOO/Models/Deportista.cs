@@ -1,4 +1,4 @@
-class Deportista{
+public class Deportista{
     public int IdDeportista { get; set; }
     public string Apellido { get; set; }
     public string Nombre { get; set; }

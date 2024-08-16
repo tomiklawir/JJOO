@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\Futbol.webp",
+      "PackagePath": "staticwebassets\\img\\Futbol.webp"
+    },
+    {
+      "Id": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
