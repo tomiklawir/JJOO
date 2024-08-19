@@ -1,61 +1,42 @@
 *{
-  padding: 0;
-  margin: 0;
-}
-html{
-  height: 100%;
-}
-body{
-  background-color: rgb(221, 18, 18) !important;
+  margin: 0%;
+  padding: 0%;
 }
 header img{
   width: 40%;
 }
-.bienvenida{
-  text-align: center ;
+header{
+  background-color: rgb(67, 113, 114);
 }
-p{
-  text-align: center;
-}
-p iframe{
-  margin-top:2%;
-}
-.row{
-  margin-top: 5%;
-  height: auto;
-}
-nav{
-  font-size: larger;
-}
-footer{
-  background-color: rgb(52, 52, 52);
-}
-footer img{
-  width: 120% ;
-}
-
-.card{
-  margin: 2%;
-  width: 50%;
-  align-items: center;
-  margin-left: 25%;
-}
-.buscador{
-  width: 20%;
-  float: right;
+.nav-item{
+  color: black;
+  text-decoration: none;
   
 }
-.col{
-  margin-bottom: 2% ;
+footer{
+  background-color: rgb(53, 52, 52);
 }
-.card-title{
-  color: black;
-  opacity: 70%;
-  margin-top: 20%;
-}
-.container{
+.inicio{
   text-align: center;
 }
-header{
-  background-color: rgb(146, 146, 156) ;
+.imagenes{
+  text-align: center;
+  margin-top: 3%;
+  font-size: x-large;
+}
+.container{
+  margin: 3%;
+}
+.col{
+  margin-bottom: 2%;
+}
+.formulario{
+  text-align: center;
+  padding: 2% ;
+
+  background-color: grey;
+}
+.card{
+  justify-content: center;
+  align-items: center;
 }
