@@ -15,44 +15,44 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View("Index");
+        return View();
     }
     public IActionResult Creditos()
     {
-        return View("Creditos");
+        return View();
     }
     public IActionResult Paises()
     {
-        return View("Paises");
         ViewBag.ListaPais = BD.ListarPaises();
+        return View();
     }
     public IActionResult Deportes()
     {
-        return View("Deportes");
         ViewBag.ListaDeportes = BD.ListarDeportes();
+        return View();
     }
     public IActionResult VerDetalleDeporte(int IdDeporte)
     {
         ViewBag.DetalleDeporte = BD.VerInfoDeporte(IdDeporte);
         ViewBag.DeportistasXDeporte = BD.ListarDeportistasDeporte(IdDeporte);
-        return View("DetalleDeporte");
+        return View();
     }
     public IActionResult DetalleDeportista(int IdDeportista)
     {
         ViewBag.DetalleDeportista = BD.VerInfoDeportista(IdDeportista);
-        return View("DetalleDeportista");
+        return View();
     }
     public IActionResult DetallePais(int IdPais)
     {
         ViewBag.DetallePais = BD.VerInfoPais(IdPais);
         ViewBag.DeportistasXPais = BD.ListarDeportistasPais(IdPais);
-        return View("DetallePais");
+        return View();
     }
     public IActionResult AgregarDeportista()
     {
         ViewBag.ListaPais = BD.ListarPaises();
         ViewBag.ListaDeportes = BD.ListarDeportes();
-        return View("AgregarDeportista");
+        return View();
     }
     [HttpPost] public  IActionResult GuardarDeportista(Deportista dep){
         BD.AgregarDeportista(dep);
