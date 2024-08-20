@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0yZwbUR1Ff5Yr3mol1AgxNp2L4dPsm8v0lxCJG4jFm0=",
+  "Hash": "CBb44CxHjuWyQlMsU2j0VcIipHjm8hdKV/i62ts4r1g=",
   "Source": "JJOO",
   "BasePath": "_content/JJOO",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "JJOO\\wwwroot",
       "Source": "JJOO",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\css\\site.css",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\favicon.ico",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\Argentina.png",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\Argentina.png",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/Argentina.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Argentina.png"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\australia.png",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\australia.png",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/australia.png",
       "AssetKind": "All",
@@ -93,10 +93,29 @@
       "OriginalItemSpec": "wwwroot\\img\\australia.png"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\Futbol.webp",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\bandera.webp",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
+      "BasePath": "_content/JJOO",
+      "RelativePath": "img/bandera.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bandera.webp"
+    },
+    {
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\Futbol.webp",
+      "SourceId": "JJOO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/Futbol.webp",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Futbol.webp"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\inglaterra.png",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\inglaterra.png",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/inglaterra.png",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\inglaterra.png"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\juegos olimpicos.png",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\juegos olimpicos.png",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/juegos olimpicos.png",
       "AssetKind": "All",
@@ -150,10 +169,29 @@
       "OriginalItemSpec": "wwwroot\\img\\juegos olimpicos.png"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\lyles.jpg",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\logo footer.png",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
+      "BasePath": "_content/JJOO",
+      "RelativePath": "img/logo footer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo footer.png"
+    },
+    {
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\lyles.jpg",
+      "SourceId": "JJOO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/lyles.jpg",
       "AssetKind": "All",
@@ -169,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lyles.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\martin.jpg",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\martin.jpg",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/martin.jpg",
       "AssetKind": "All",
@@ -188,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\martin.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\olympics logo.png",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\olympics logo.png",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/olympics logo.png",
       "AssetKind": "All",
@@ -207,10 +245,29 @@
       "OriginalItemSpec": "wwwroot\\img\\olympics logo.png"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\portugal.png",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\paris.webp",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
+      "BasePath": "_content/JJOO",
+      "RelativePath": "img/paris.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\paris.webp"
+    },
+    {
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\portugal.png",
+      "SourceId": "JJOO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/portugal.png",
       "AssetKind": "All",
@@ -226,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portugal.png"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\tomi.jpg",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\tomi.jpg",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/tomi.jpg",
       "AssetKind": "All",
@@ -245,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tomi.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\img\\uri.jpg",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\img\\uri.jpg",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "img/uri.jpg",
       "AssetKind": "All",
@@ -264,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uri.jpg"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\js\\site.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -283,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -302,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -321,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -340,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -359,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -378,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -397,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -416,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -435,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -454,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -473,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -492,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\JJOO\\JJOO\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48385206\\Desktop\\JJOO\\JJOO\\wwwroot\\",
       "BasePath": "_content/JJOO",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

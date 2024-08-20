@@ -3,12 +3,21 @@
 }
 
 <body>
-    @foreach(Deporte dep in ViewBag.ListarDeportes){
+    @if (ViewBag.ListarDeportes != null)
+{
+    foreach(Deporte dep in ViewBag.ListarDeportes)
+    {
         <li>
             <a href='@Url.Action("Detallepais", new{IdDeporte = dep.IdDeporte})'>
-                <img src= "@dep.Foto" alt="Foto de @dep.Nombre">
+                <img src="@dep.Foto" alt="Foto de @dep.Nombre">
                 <p>@dep.Nombre</p>
             </a>
         </li>
     }
+}
+else
+{
+    <p>No hay deportes.</p>
+}
+
 </body>
