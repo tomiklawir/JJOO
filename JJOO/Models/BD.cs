@@ -34,7 +34,7 @@ class BD{
     public static Deportista VerInfoDeportista(int IdDeportista){
         Deportista MiDeportista = null;
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            string sql = "SELECT * FORM Deportista WHERE IdDeportista = @DeportistaVer";
+            string sql = "SELECT * FORM Deportistas WHERE IdDeportista = @DeportistaVer";
             MiDeportista = db.QueryFirstOrDefault<Deportista>(sql, new{DeportistaVer = IdDeportista});
         }
         return MiDeportista;

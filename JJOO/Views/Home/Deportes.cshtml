@@ -1,23 +1,13 @@
 @{
-    ViewData["Title"] = "Deportes";
-}
+ ViewData["Title"] = "Deportes";
 
-<body>
-    @if (ViewBag.ListarDeportes != null)
-{
-    foreach(Deporte dep in ViewBag.ListarDeportes)
+}
+    
+    @foreach(Deporte dep in ViewBag.ListaDeportes)
     {
-        <li>
-            <a href='@Url.Action("Detallepais", new{IdDeporte = dep.IdDeporte})'>
-                <img src="@dep.Foto" alt="Foto de @dep.Nombre">
-                <p>@dep.Nombre</p>
-            </a>
-        </li>
+        <p>@dep.Nombre</p>
+        <a href='@Url.Action("VerDetalleDeporte")'><img src="@dep.Foto" width = "200px" height = "180px"></a>
     }
-}
-else
-{
-    <p>No hay deportes.</p>
-}
+    
 
-</body>
+    
